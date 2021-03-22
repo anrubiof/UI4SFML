@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+  <button x="51"   y="70"  height="69"  width="138"></button>
+  <button x="313"  y="70"  height="69"  width="138"></button>
+  <bitton x="51"   y="286" height="100" width="400"></bitton>
+  <button x="178"  y="178" height="70"  width="140"></button>
+  <button x="18"   y="178" height="70"  width="140"></button>
+  <button x="340"  y="178" height="70"  width="140"></button>
+</document>
